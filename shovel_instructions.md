@@ -24,9 +24,9 @@ Once the service is running, you can use swagger GUI to setup RackHD, Ironic, Ke
 
 ## Shovel-Ironic Set info Example:
 
-![alt text](https://github.com/keedya/shovel/blob/master/snapshot/ironic_info.png)
+![alt text](snapshot/ironic_info.png)
 
 ## Shovel Set Port Example:
 
-![alt text](https://github.com/keedya/shovel/blob/master/snapshot/shovel_settings.png)
+![alt text](snapshot/shovel_settings.png)
 
